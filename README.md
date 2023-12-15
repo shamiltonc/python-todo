@@ -8,3 +8,5 @@ This is a to-do app I wrote in Python. It does the following:
   * Download your current list of tasks.
   * Save your session.
   * Load your session.
+
+Download the doc called AboutApp to learn more.
